@@ -1,0 +1,104 @@
+[
+  {
+    "domain": "google.com",
+    "company_name": "Google",
+    "year_founded": 1998,
+    "city": "Mountain View",
+    "country": "United States",
+    "industry": "Internet",
+    "employee_count": 219238,
+    "phone_numbers": [],
+    "email_addresses": [],
+    "tags": [],
+    "tech_tags": [],
+    "linkedin_url": "linkedin.com/company/google"
+  },
+  {
+    "domain": "airbnb.com",
+    "company_name": "Airbnb",
+    "year_founded": 2008,
+    "city": "San Francisco",
+    "country": "United States",
+    "industry": "Internet",
+    "employee_count": 14604,
+    "phone_numbers": [],
+    "email_addresses": [],
+    "tags": [],
+    "tech_tags": [],
+    "linkedin_url": "linkedin.com/company/airbnb"
+  },
+  {
+    "domain": "google.com.br",
+    "company_name": "Rtur  Viagens E Turismo Ltda",
+    "description": "★★★★★ · Agência de viagens",
+    "sic_code": "70",
+    "naics_code": "72",
+    "industry": "Hotels & Other Lodging Places",
+    "employee_range": "1-10",
+    "revenue_range": "0-1M",
+    "phone_numbers": [
+      "121283394144",
+      "617072378400",
+      "679899136304"
+    ],
+    "type": "private",
+    "global_ranking": "15564",
+    "tags": [
+      "Travel Agencies",
+      "Travel Packages",
+      "Travel Arrangement",
+      "Travel & Tourism",
+      "Hotels"
+    ],
+    "technologies": [
+      "DHL",
+      "Google APIs",
+      "Google CDN",
+      "Google Fonts",
+      "Twitter Short URL",
+      "Google/Doubleclick Ads",
+      "Google Tag Manager",
+      "YouTube",
+      "Google Analytics",
+      "Google Maps"
+    ],
+    "linkedin_url": "linkedin.com/company/rtur-viagens-e-turismo-ltda"
+  },
+  {
+    "domain": "google.com.br",
+    "company_name": "Rtur  Viagens E Turismo Ltda",
+    "description": "★★★★★ · Agência de viagens",
+    "sic_code": "70",
+    "naics_code": "72",
+    "industry": "Hotels & Other Lodging Places",
+    "employee_range": "1-10",
+    "revenue_range": "0-1M",
+    "phone_numbers": [
+      "121283394144",
+      "617072378400",
+      "679899136304"
+    ],
+    "type": "private",
+    "global_ranking": "15564",
+    "tags": [
+      "Travel Agencies",
+      "Travel Packages",
+      "Travel Arrangement",
+      "Travel & Tourism",
+      "Hotels"
+    ],
+    "technologies": [
+      "DHL",
+      "Google APIs",
+      "Google CDN",
+      "Google Fonts",
+      "Twitter Short URL",
+      "Google/Doubleclick Ads",
+      "Google Tag Manager",
+      "YouTube",
+      "Google Analytics",
+      "Google Maps"
+    ],
+    "linkedin_url": "linkedin.com/company/rtur-viagens-e-turismo-ltda"
+  }
+]
